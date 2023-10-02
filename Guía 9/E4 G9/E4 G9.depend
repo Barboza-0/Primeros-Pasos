@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1688153980 source:c:\users\gekko_0\desktop\programming\.ejercicios\guía 9\e4 g9\main.cpp
+	<iostream>
+	"funciones.h"
+
+1688154755 c:\users\gekko_0\desktop\programming\.ejercicios\guía 9\e4 g9\funciones.h
+	<iostream>
+	"funciones2.h"
+
+1688154440 c:\users\gekko_0\desktop\programming\.ejercicios\guía 9\e4 g9\funciones2.h
+	<iostream>
+

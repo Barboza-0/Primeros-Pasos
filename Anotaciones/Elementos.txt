@@ -1,0 +1,13 @@
+Variable (A= 2) Esta puede variar
+Constante (A= 2) Esta no varía
+Bandera (B= 0) Es especial, se usa con 0 y 1, para determinar si es verdadero o falso
+
+Ingreso (N1, N2) variables para ingresar numeros, textos o caracteres
+Proceso (R= N1 + N2) Procesa una operación y la guarda en una variable, en este caso R
+Egreso (R) Muestra en pantalla el resultado de lo que se pedía, en este caso la variable R con el resultado de la suma
+
+Funcion Int (Funcion de numeros enteros)
+Funcion Float (Funcion de numeros con ,)
+Funcion Bool (Funcion de 0 y 1 {True & False})
+Funcion Char (Caracteres ejemplo una letra)
+Funcion Void (Especial)
